@@ -1,0 +1,18 @@
+Line: asd 13 0 -5
+Positive numbers: 1
+Negative numbers: 1
+Zero numbers: 1
+Word count: 1
+------------------------------
+Line: asd, 13, 0, -5
+Positive numbers: 1
+Negative numbers: 1
+Zero numbers: 1
+Word count: 1
+------------------------------
+Line: asd. asd. 13 0, -5
+Positive numbers: 1
+Negative numbers: 1
+Zero numbers: 1
+Word count: 2
+------------------------------
